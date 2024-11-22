@@ -1,0 +1,17 @@
+#fb {
+  padding: 20px;
+  display: flex;
+  background-color: black;
+  /* flex-direction: row-reverse; */
+  /* flex-direction: column-reverse; */
+  /* column-gap: 5px; */
+  /* row-gap: 45px; */
+  /* gap: 10px; */
+  flex-wrap: wrap;
+  /* justify-content: center; */
+  justify-content: space-evenly;
+}
+h1 {
+  color: red;
+  background-color: white;
+}
