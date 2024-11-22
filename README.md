@@ -16,5 +16,14 @@ FLEXBOX
 2.DIRECTION:
 3.JUSTIFY CONTENT:
 4.FLEX-WRAP:
+  display: flex;
+  /* flex-direction: row-reverse; */
+  /* flex-direction: column-reverse; */
+  /* column-gap: 5px; */
+  /* row-gap: 45px; */
+  /* gap: 10px; */
+  /* flex-wrap: wrap; */
+  /* justify-content: center; */
+  /* justify-content: space-evenly; */
 5.ALIGN-COTENT:
 6.ALIGN-ITEMS:
